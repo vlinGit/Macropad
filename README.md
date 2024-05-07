@@ -63,7 +63,7 @@ Here's a [spreadsheet](https://docs.google.com/spreadsheets/d/1NUBolih80QTXxrNlf
 
 ## Firmware
 
-You will find a <b>lib</b> folder as well as a <b>code.py</b> file in here. The <b>lib</b> folder contains the necessary adafruit library needed for the python file <b>code.py</b> which contains the actual firmware code.
+You will find a <b>lib</b> folder as well as a <b>code.py</b> file in here. The <b>lib</b> folder contains the necessary adafruit library needed for the python file <b>code.py</b> which contains the actual firmware code. These files should be dragged into your Pi Pico after you've installed CircuitPython.
 
 The macropad is designed in a 4x4 matrix with the following pins:
 
