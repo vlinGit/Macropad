@@ -44,7 +44,7 @@ All the project files (schematic, pcb, and fingerprints) should be in this folde
 ##### PCB:
 <p align="center">
     <img src="images/pcbFront.png" width="300px" height="200px" style="border: 5px solid">
-    <img src="images/pcbback.png" width="300px" height="200px" style="border: 5px solid">
+    <img src="images/pcbBack.png" width="300px" height="200px" style="border: 5px solid">
 </p>
 
 ##### Parts:
